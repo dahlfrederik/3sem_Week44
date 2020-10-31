@@ -31,7 +31,7 @@ function App() {
   return (
     <div className="container outer">
       <h2 style={{ textAlign: "center", marginBottom: 25 }}>
-        Props and Lifting State Demo
+        PersonList med Lifting state
       </h2>
 
       <div className="row">
